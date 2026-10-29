@@ -1,0 +1,11 @@
+{
+  "metricool_blog_id": "7243028",
+  "timezone": "Asia/Tokyo",
+  "networks": ["tiktok", "youtube"],
+  "board_url": "https://claude.ai/artifact/MxxDMVj8baHHHyBzbVfJkQ",
+  "repo": "monkeysayyo/shorts-media",
+  "raw_base": "https://raw.githubusercontent.com/monkeysayyo/shorts-media/main/videos/",
+  "videos_per_day": 1,
+  "vidiq_daily_credit_cap": 5,
+  "vidiq_min_balance_to_spend": 10
+}
