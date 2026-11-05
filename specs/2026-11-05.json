@@ -1,0 +1,34 @@
+{
+  "theme": "pop",
+  "hook": "スマホの充電\nあるある\n何個当てはまる？",
+  "scenes": [
+    {
+      "emoji_label": "No.5",
+      "title": "ケーブルが届かない",
+      "body": "寝ながら使いたいのに\nコードが短すぎる"
+    },
+    {
+      "emoji_label": "No.4",
+      "title": "挿したつもり",
+      "body": "朝起きたら\n充電されてなかった"
+    },
+    {
+      "emoji_label": "No.3",
+      "title": "残り1%の粘り",
+      "body": "1%になってからが\n意外と長い"
+    },
+    {
+      "emoji_label": "No.2",
+      "title": "充電器の取り合い",
+      "body": "家族と充電器を\n奪い合う毎日"
+    },
+    {
+      "emoji_label": "No.1",
+      "title": "外出前の絶望",
+      "body": "出かける直前に\n残り20%に気づく"
+    }
+  ],
+  "cta": "何個当てはまった？\nコメントで教えて",
+  "scene_seconds": 3.2,
+  "bgm": true
+}
