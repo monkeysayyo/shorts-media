@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "hook": "金曜の夜に\nやりがちなこと5選",
+  "scenes": [
+    {"emoji_label": "No.5", "title": "帰り道で浮かれる", "body": "明日休みってだけで\n足取りが軽い"},
+    {"emoji_label": "No.4", "title": "コンビニで散財", "body": "ご褒美って言い訳して\nお菓子を買いすぎる"},
+    {"emoji_label": "No.3", "title": "予定を詰めたくなる", "body": "土日でやりたいこと\nリストが長くなる"},
+    {"emoji_label": "No.2", "title": "夜ふかし確定", "body": "気づいたら\n深夜3時になってる"},
+    {"emoji_label": "No.1", "title": "結局なにもしない", "body": "土曜は昼に起きて\nリストは全部白紙"}
+  ],
+  "cta": "何個当てはまった？\nコメントで教えて",
+  "scene_seconds": 3.2,
+  "bgm": true
+}
